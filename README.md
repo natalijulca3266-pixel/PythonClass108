@@ -1,4 +1,9 @@
 # PythonClass108
+
+
+
+
+
 total_bill = 0.00
 while True:
     print("Welcome to The Cafe Kiosk. Here is the Menu")
